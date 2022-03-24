@@ -1,3 +1,3 @@
 # KurtlarVadisi
-MobilProgramlamaProje
-Görkem Kızılyıl ve Yunus Karataş.
+Görkem Kızılyıl ve Yunus Karataş 'ın
+Mobil Programlama projesi.
